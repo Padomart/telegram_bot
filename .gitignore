@@ -1,0 +1,7 @@
+venv
+.env
+.gitattributes
+.idea
+table_image.png
+widget.py
+__pycache__
